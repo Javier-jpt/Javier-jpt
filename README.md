@@ -32,8 +32,6 @@
 
 ### Status ... 
 
-[GitHub Streak](https://streak-stats.demolab.com?user=Javier-jpt&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Javier-jpt&theme=dracula)](https://git.io/streak-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Javier-jpt&show_icons=true&theme=dracula)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-jpt&theme=dracula)
-
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=Javier-jpt&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-jpt&theme=dracula)
